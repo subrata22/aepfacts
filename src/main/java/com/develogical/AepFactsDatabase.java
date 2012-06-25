@@ -17,9 +17,11 @@ public class AepFactsDatabase {
         data.put("nigel",  miniBiog("Nigel is a student on the AEP course", "http://photos.geni.com/p6/3608/5193/53444836a0c8951c/Copy_of_131_3192_medium.jpg"));
         data.put("colin",  miniBiog("Colin doesn't do much these days and likes post rock music and cider.", "http://profile.ak.fbcdn.net/hprofile-ak-snc4/203393_585632745_7365858_q.jpg"));
 
+
         // student 1 add biog here (description and photo)
         // student 2 add biog here
         // student 3 add biog here
+        data.put("Subrata",  miniBiog("Subrata is a MSc student at Oxford University", ""));
         // student 4 add biog here
         // student 5 add biog here
         // student 6 add biog here
